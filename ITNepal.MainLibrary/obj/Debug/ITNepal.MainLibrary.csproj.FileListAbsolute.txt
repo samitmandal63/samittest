@@ -1,0 +1,120 @@
+C:\Anish\batch\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Anish\batch\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Anish\batch\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Anish\batch\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csprojResolveAssemblyReference.cache
+C:\Anish\batch\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Anish\batch\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Samit\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Samit\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Samit\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\shared by bibek\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Samit\shared by bibek\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Samit\shared by bibek\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\shared by bibek\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Samit\shared by bibek\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Anish\Latest HSIL\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Anish\Latest HSIL\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Anish\Latest HSIL\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Anish\Latest HSIL\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csprojResolveAssemblyReference.cache
+C:\Anish\Latest HSIL\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Anish\Latest HSIL\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\test\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Samit\test\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Samit\test\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\test\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csprojResolveAssemblyReference.cache
+C:\Samit\test\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Samit\test\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\shared by bibek\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Samit\shared by bibek\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Samit\shared by bibek\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\shared by bibek\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csprojResolveAssemblyReference.cache
+C:\Samit\shared by bibek\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Samit\shared by bibek\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\test\New folder\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Samit\test\New folder\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Samit\test\New folder\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\test\New folder\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csprojResolveAssemblyReference.cache
+C:\Samit\test\New folder\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Samit\test\New folder\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\test\hulas\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Samit\test\hulas\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Samit\test\hulas\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\test\hulas\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Samit\test\hulas\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-08\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-08\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-08\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-08\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-08\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-09\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-09\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-09\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-09\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-09\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-09\2021-06-10\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-21\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-21\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-21\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-21\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-21\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-07-21\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-08-09\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-08-09\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-08-09\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-08-09\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas Desktop App\2021-08-09\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\test\hulas\2021-08-15\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Samit\test\hulas\2021-08-15\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Samit\test\hulas\2021-08-15\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\test\hulas\2021-08-15\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csprojResolveAssemblyReference.cache
+C:\Samit\test\hulas\2021-08-15\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Samit\test\hulas\2021-08-15\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\shared by bibek\hulas\2021-08-17\2021-08-15 new\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Samit\shared by bibek\hulas\2021-08-17\2021-08-15 new\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Samit\shared by bibek\hulas\2021-08-17\2021-08-15 new\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\shared by bibek\hulas\2021-08-17\2021-08-15 new\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Samit\shared by bibek\hulas\2021-08-17\2021-08-15 new\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\test\hulas\2021-12-03\2021-08-15 new\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Samit\test\hulas\2021-12-03\2021-08-15 new\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Samit\test\hulas\2021-12-03\2021-08-15 new\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Samit\test\hulas\2021-12-03\2021-08-15 new\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csprojResolveAssemblyReference.cache
+C:\Samit\test\hulas\2021-12-03\2021-08-15 new\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Samit\test\hulas\2021-12-03\2021-08-15 new\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas gatepass\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas gatepass\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas gatepass\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas gatepass\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Users\Bibek1\Desktop\Currently Working On\Hulas gatepass\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Working Folder Manas_20220107\SDK\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Working Folder Manas_20220107\SDK\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Working Folder Manas_20220107\SDK\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Working Folder Manas_20220107\SDK\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csprojAssemblyReference.cache
+C:\Working Folder Manas_20220107\SDK\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csproj.CoreCompileInputs.cache
+C:\Working Folder Manas_20220107\SDK\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Working Folder Manas_20220107\SDK\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.dll
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\SAPBusinessOneSDK.dll
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.xml
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csproj.CoreCompileInputs.cache
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csproj.CopyComplete
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Anish\samit\test\sarbotam\Hulas_Addon\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.dll
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\SAPBusinessOneSDK.dll
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.xml
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csproj.CoreCompileInputs.cache
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.csproj.CopyComplete
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb

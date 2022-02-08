@@ -1,0 +1,13 @@
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll.config
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.dll
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\ITNepal.MainLibrary.pdb
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.dll
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\SAPBusinessOneSDK.dll
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.xml
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\SBO.NEO.GPPL.MainLibrary.csprojAssemblyReference.cache
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\SBO.NEO.GPPL.MainLibrary.csproj.CoreCompileInputs.cache
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\SBO.NEO.GPPL.MainLibrary.csproj.CopyComplete
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.dll
+C:\Anish\samit\test\sarbotam\ITNepal.HSIL\ITNepal.MainLibrary\obj\Debug\ITNepal.MainLibrary.pdb
